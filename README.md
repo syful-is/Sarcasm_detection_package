@@ -14,3 +14,24 @@ The Sarcasm is used to mock or convey contempt through a sentence or while speak
 ─
 ```
 
+# How to run:
+  1. Download the dataset from [https://github.com/syful-is/Sarcasm_detection_package.git](https://github.com/syful-is/Sarcasm_detection_package.git)
+  2. Extract the files. 
+  3. Clone this repository into your userhome folder in the system and run the code
+  ```https://github.com/syful-is/Sarcasm_detection_package.git```
+  3. Open `Jupyter Notebook` or `Python Spyder`.
+  4. Copy any code and Set your working directory using 
+                
+                ```
+                import os
+                
+                #Please specify your dataset directory. 
+                os.chdir("..../Dataset/")
+                ```
+                
+     
+  5. install the dependencies running pre_setup.py in scripts folder
+  6. execute feature_engineering.py in scripts folder to extract features which are used to produce results.
+  7.Finally, run sarcasm_classifiers.py in scripts folder to get results for individual classifier or algorithm
+
+`NB: You may have to install required packages depending on the python environment you are using.
