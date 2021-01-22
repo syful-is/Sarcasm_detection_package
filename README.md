@@ -36,7 +36,7 @@ The Sarcasm is used to mock or convey contempt through a sentence or while speak
   
   
 # Authors:
-  1. [Arifur Rahman MSc student Dept. of CSTE NSTU] (https://nstu.edu.bd/department/cste)
+  1. [Arifur Rahman  MSc student Dept. of CSTE NSTU](https://nstu.edu.bd/department/cste)
   2. [Syful Islam](https://syful-is.github.io/), Nara Institute of Science and Technology (NAIST), Nara, Japan.
   3. [Ratnadip kuri](https://nstu.edu.bd/faculty-member/ratnadip-kuri-yky939)
   4. [Md. Javed Hossain](https://nstu.edu.bd/faculty-member/md-javed-hossain-bdr991)
