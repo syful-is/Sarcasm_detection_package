@@ -30,8 +30,6 @@ The Sarcasm is used to mock or convey contempt through a sentence or while speak
                 ```
                 
      
-  5. install the dependencies running pre_setup.py in scripts folder
-  6. execute feature_engineering.py in scripts folder to extract features which are used to produce results.
-  7.Finally, run sarcasm_classifiers.py in scripts folder to get results for individual classifier or algorithm
-
-`NB: You may have to install required packages depending on the python environment you are using.
+  5. Install the dependencies running pre_setup.py in scripts folder
+  6. Execute feature_engineering.py in scripts folder to extract features which are used to produce results.
+  7. Finally, run sarcasm_classifiers.py in scripts folder to get results for individual classifier or algorithm NB: You may have to install required packages depending on the python environment you are using.
